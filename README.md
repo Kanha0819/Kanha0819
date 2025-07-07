@@ -13,13 +13,13 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Java` `JavaScript` `TypeScript` `Python`
+ `JavaScript` `TypeScript` `Python`
 
 **Frontend**  
 `React.js` `React Native` `Tailwind CSS`
 
 **Backend & Tools**  
-`Node.js` `Spring Boot` `Express.js` `REST APIs` `Hibernate`
+`Node.js` `Express.js` `REST APIs` 
 
 **Databases**  
 `MySQL` `MongoDB`
@@ -33,7 +33,7 @@
 
 - 🍕 **Pizzify** – A full-stack online pizza delivery platform  
   _React + Express + MongoDB + Razorpay Integration_  
-  [Live Demo](#) | [Repo](#)
+  [Live Demo](https://pizzifytoppings.vercel.app/) | [Repo](#)
 
 - 📱 **Document Uploader App** – React Native mobile app  
   _Supports camera/gallery input, secure file uploads, Android Studio integration_  
