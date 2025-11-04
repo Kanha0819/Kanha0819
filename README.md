@@ -35,13 +35,9 @@
   _React + Express + MongoDB + Razorpay Integration_  
   [Live Demo](https://pizzifytoppings.vercel.app/) | [Repo](#)
 
-- 📱 **Document Uploader App** – React Native mobile app  
-  _Supports camera/gallery input, secure file uploads, Android Studio integration_  
-  [Repo](#)
-
-- 🚦 **City Traffic Simulator** – Simulates real-time traffic patterns  
-  _Built with Python, SimPy, Pygame, Matplotlib_  
-  [Repo](#)
+- 📱 **Splitlify** – Smart Expense Sharing & Settlement App  
+  _Next.js, Node.js, and MongoDB, Socket.io Integration_<br>
+  [Live Demo](https://splitlify-ashy.vercel.app/) | [Repo](#)
 
 ---
 
